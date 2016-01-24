@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OCV 15 Puzzle</string>
+    <string name="menu_toggle_tile_numbers">Show/hide tile numbers</string>
+    <string name="menu_start_new_game">Start new game</string>
+
+    <string name="prefs_grid_size">Grid size</string>
+
+    <string-array name="prefs_grid_size_title">
+        <item>3 x 3</item>
+        <item>4 x 4</item>
+        <item>5 x 5</item>
+    </string-array>
+
+    <string-array name="prefs_grid_size_value">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+</resources>
